@@ -46,5 +46,6 @@ Future improvements could include:
 This script is free to use and modify.
 
 ## Author
-[Your Name]
+GEMBALI KEERTHIVARDHAN
+
 
